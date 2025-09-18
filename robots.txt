@@ -1,0 +1,2 @@
+User-agent: Yandex
+Sitemap: https://kursy-restorannogo-biznesa.vercel.app/sitemap.xml
